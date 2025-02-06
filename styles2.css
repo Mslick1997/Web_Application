@@ -1,0 +1,26 @@
+@font-face {
+  font-family: Amarillo;
+  src: url(/fonts/amarillo/Amarillo.ttf);
+}
+@font-face {
+  font-family: Mustard;
+  src: url(/fonts/mustardo/mustardo.ttf);
+}
+@font-face {
+  font-family: Blacksword;
+  src: url(/fonts/blacksword/Blacksword.otf);
+}
+@font-face {
+  font-family: Sriracha;
+  src: url(/fonts/Sriracha/Sriracha-Regular.ttf);
+}
+.b-example-divider {
+  height: 3rem;
+  background-color: rgba(0, 0, 0, .1);
+  border: solid rgba(0, 0, 0, .15);
+  border-width: 1px 0;
+  box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+
+
+
